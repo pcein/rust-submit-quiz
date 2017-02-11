@@ -5,7 +5,7 @@
 pub const TEAM_NAME: &'static str = "mohan79";
 
 
-/*---- do not modify -----*/
+/*---- modify ONLY when instructed -----*/
 
 pub const SERVER: &'static str = "128.199.209.145";
 

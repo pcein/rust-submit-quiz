@@ -6,5 +6,5 @@ extern crate hyper;
 
 fn main() {
 
-    submit::submit(12, 10);
+    submit::submit(2, 5);
 }
